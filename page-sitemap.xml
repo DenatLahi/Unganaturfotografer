@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2025-08-15T17:25:41+00:00</lastmod>
+		<lastmod>2025-08-15T17:54:38+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson.jpg</image:loc>
 		</image:image>
@@ -1349,52 +1349,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./fotoartiklar/index.html</loc>
-		<lastmod>2025-08-15T16:00:22+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-3-1024x814.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./medlemmar/denat-lahi/index.html</loc>
 		<lastmod>2025-08-15T16:10:46+00:00</lastmod>
 		<image:image>
@@ -1570,70 +1524,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/483431067_915371287190669_6329563871135457048_n-1024x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./fotoartiklar/17-arige-denat-lahi-fotar-skogsmardar-i-industrimiljoer/index.html</loc>
-		<lastmod>2025-08-15T16:21:33+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/denat-lahi-skogsmard-kamerafalla-1024x760.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/denat-lahi-skogsmard-kamerafalla-1024x760.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2183,6 +2073,116 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/MG_9211-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./fotoartiklar/17-arige-denat-lahi-fotar-skogsmardar-i-industrimiljoer/index.html</loc>
+		<lastmod>2025-08-15T17:52:33+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/denat-lahi-skogsmard-kamerafalla-1024x760.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/denat-lahi-skogsmard-kamerafalla-1024x760.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./fotoartiklar/index.html</loc>
+		<lastmod>2025-08-15T17:54:17+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-3-1024x814.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
