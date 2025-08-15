@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://unganaturfotografer.se/</loc>
-		<lastmod>2025-08-15T15:36:16+00:00</lastmod>
+		<lastmod>2025-08-15T17:25:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
 		</image:image>
@@ -10,10 +13,13 @@
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3493-v10WEB-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
@@ -79,7 +85,7 @@
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
@@ -97,10 +103,13 @@
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
@@ -112,10 +121,28 @@
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/DJI_0018-Gabriel-Emanuelsson-1024x576.jpg</image:loc>
@@ -139,7 +166,25 @@
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1470-Elliot-Nilsson-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4877-Matilda-Modig-1024x839.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -585,104 +630,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/fotoartiklar/minimalism-i-naturfoto-18-aring-visar-kreativa-bilder/</loc>
-		<lastmod>2025-08-14T21:37:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-4-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-6-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-7-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/483431067_915371287190669_6329563871135457048_n-1024x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://unganaturfotografer.se/medlemmar/denat-lahi/</loc>
-		<lastmod>2025-08-14T23:29:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/image-1-1024x682.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://unganaturfotografer.se/medlemmar/albin-nordlund/</loc>
 		<lastmod>2025-08-15T13:08:56+00:00</lastmod>
 		<image:image>
@@ -814,70 +761,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8147-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://unganaturfotografer.se/medlemmar/emil-gustavsson/</loc>
-		<lastmod>2025-08-15T13:10:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2290-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6170-Emil-Gustavsson-823x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6875-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8676-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_0323-Emil-Gustavsson-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_2743-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9211-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8091-03_Original-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8158-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2290-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6170-Emil-Gustavsson-823x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6875-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_0323-Emil-Gustavsson-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_2743-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8091-03_Original-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8158-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9211-Emil-Gustavsson-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1018,73 +901,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/medlemmar/hampus-lundqvist-von-post/</loc>
-		<lastmod>2025-08-15T13:12:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8612-Hampus-Lundqvist-von-Post-1024x513.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9110-Hampus-Lundqvist-von-Post-1024x640.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D1017-Hampus-Lundqvist-von-Post-1024x722.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D0312-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8882-Hampus-Lundqvist-von-Post-1024x484.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D2663-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8930-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8183-Hampus-Lundqvist-von-Post-1024x689.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9401-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8882-Hampus-Lundqvist-von-Post-1024x484.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8612-Hampus-Lundqvist-von-Post-1024x513.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8930-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9110-Hampus-Lundqvist-von-Post-1024x640.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9401-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8183-Hampus-Lundqvist-von-Post-1024x689.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D0312-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D1017-Hampus-Lundqvist-von-Post-1024x722.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D2663-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://unganaturfotografer.se/medlemmar/johan-thelander/</loc>
 		<lastmod>2025-08-15T13:13:28+00:00</lastmod>
 		<image:image>
@@ -1149,73 +965,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/K5A4318-Johan-Thelander_processed_by_imagy-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://unganaturfotografer.se/medlemmar/linus-nyblom/</loc>
-		<lastmod>2025-08-15T13:14:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/flyggande_svala_vatten_reflektion_full_3.0-1024x620.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/skogsmard-dadadadad-1024x688.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/ormvrak_meat_2_color_morkare_14.0-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/481910346_17964093842854076_7223717647142017655_n-1024x655.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/10-kattuggle-unge-3.0-fliluren-1024x655.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/grahake-dopping-4.0-fliluren-1024x601.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/flyggande_svala_vatten_reflektion_full_3.0-1024x620.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/skogsmard-dadadadad-1024x688.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/ormvrak_meat_2_color_morkare_14.0-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/grahake-dopping-4.0-fliluren-1024x601.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/481910346_17964093842854076_7223717647142017655_n-1024x655.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/10-kattuggle-unge-3.0-fliluren-1024x655.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1600,100 +1349,92 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/medlemmar/</loc>
-		<lastmod>2025-08-15T15:30:42+00:00</lastmod>
+		<loc>https://unganaturfotografer.se/fotoartiklar/</loc>
+		<lastmod>2025-08-15T16:00:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_1024FINAL-3-1024x814.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/medlemmar/denat-lahi/</loc>
+		<lastmod>2025-08-15T16:10:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/image-1-1024x682.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
@@ -1705,200 +1446,94 @@
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/kontakt/</loc>
-		<lastmod>2025-08-15T15:33:01+00:00</lastmod>
+		<loc>https://unganaturfotografer.se/medlemmar/linus-nyblom/</loc>
+		<lastmod>2025-08-15T16:16:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1470-Elliot-Nilsson.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/flyggande_svala_vatten_reflektion_full_3.0-1024x620.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/skogsmard-dadadadad-1024x688.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/ormvrak_meat_2_color_morkare_14.0-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/481910346_17964093842854076_7223717647142017655_n-1024x655.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/10-kattuggle-unge-3.0-fliluren-1024x655.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1470-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://unganaturfotografer.se/om-oss/</loc>
-		<lastmod>2025-08-15T15:34:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/grahake-dopping-4.0-fliluren-1024x601.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/flyggande_svala_vatten_reflektion_full_3.0-1024x620.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/skogsmard-dadadadad-1024x688.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/ormvrak_meat_2_color_morkare_14.0-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/grahake-dopping-4.0-fliluren-1024x601.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/481910346_17964093842854076_7223717647142017655_n-1024x655.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/10-kattuggle-unge-3.0-fliluren-1024x655.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://unganaturfotografer.se/fotoartiklar/ungdomar-visar-sina-basta-naturbilder-i-ny-fotoutstallning/</loc>
-		<lastmod>2025-08-15T15:38:12+00:00</lastmod>
+		<lastmod>2025-08-15T16:21:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi.jpg</image:loc>
 		</image:image>
@@ -1910,8 +1545,36 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://unganaturfotografer.se/fotoartiklar/minimalism-i-naturfoto-18-aring-visar-kreativa-bilder/</loc>
+		<lastmod>2025-08-15T16:21:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-4-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-6-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-7-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/483431067_915371287190669_6329563871135457048_n-1024x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://unganaturfotografer.se/fotoartiklar/17-arige-denat-lahi-fotar-skogsmardar-i-industrimiljoer/</loc>
-		<lastmod>2025-08-15T15:39:25+00:00</lastmod>
+		<lastmod>2025-08-15T16:21:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
 		</image:image>
@@ -1974,28 +1637,552 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/fotoartiklar/</loc>
-		<lastmod>2025-08-15T15:40:25+00:00</lastmod>
+		<loc>https://unganaturfotografer.se/om-oss/</loc>
+		<lastmod>2025-08-15T17:26:07+00:00</lastmod>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3493-v10WEB-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/medlemmar/</loc>
+		<lastmod>2025-08-15T17:27:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/kontakt/</loc>
+		<lastmod>2025-08-15T17:27:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy-1024x656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/medlemmar/love-hagstrom/</loc>
+		<lastmod>2025-08-15T17:31:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav-Love-Hagstrom-1024x691.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Kronhjort-Love-Hagstrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/hornuggla-Love-Hagstrom-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gluttsnappa-Love-Hagstrom-945x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Kronhjort-2-Love-Hagstrom-1024x747.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mink-Love-Hagstrom-1024x700.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Tranan-landar-bland-flocken-Love-Hagstrom-1024x656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/vessla-Love-Hagstrom-1024x771.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav-Love-Hagstrom-1024x691.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gluttsnappa-Love-Hagstrom-945x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/hornuggla-Love-Hagstrom-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Kronhjort-Love-Hagstrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Kronhjort-2-Love-Hagstrom-1024x747.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Mink-Love-Hagstrom-1024x700.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Tranan-landar-bland-flocken-Love-Hagstrom-1024x656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/vessla-Love-Hagstrom-1024x771.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/medlemmar/hampus-lundqvist-von-post/</loc>
+		<lastmod>2025-08-15T17:35:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8612-Hampus-Lundqvist-von-Post-1024x513.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9110-Hampus-Lundqvist-von-Post-1024x640.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D1017-Hampus-Lundqvist-von-Post-1024x722.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8882-Hampus-Lundqvist-von-Post-1024x484.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D2663-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8930-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8183-Hampus-Lundqvist-von-Post-1024x689.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9401-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D0312-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8882-Hampus-Lundqvist-von-Post-1024x484.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8612-Hampus-Lundqvist-von-Post-1024x513.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8930-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9110-Hampus-Lundqvist-von-Post-1024x640.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D9401-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D8183-Hampus-Lundqvist-von-Post-1024x689.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D0312-Hampus-Lundqvist-von-Post-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D1017-Hampus-Lundqvist-von-Post-1024x722.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/30D2663-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/medlemmar/emil-gustavsson/</loc>
+		<lastmod>2025-08-15T17:36:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2290-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6170-Emil-Gustavsson-823x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6875-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8676-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_0323-Emil-Gustavsson-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_2743-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9211-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8091-03_Original-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8158-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_2290-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6170-Emil-Gustavsson-823x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_6875-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_0323-Emil-Gustavsson-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_2743-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8091-03_Original-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_8158-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/MG_9211-Emil-Gustavsson-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
