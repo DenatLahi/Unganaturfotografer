@@ -1,0 +1,240 @@
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond08-Regular-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond08-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond08-Italic-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond08-Italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond12-Regular-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond12-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond12-Italic-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond12-Italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramondSC08-Regular-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramondSC08-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramondSC12-Regular-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramondSC12-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond12-AllSC-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond12-AllSC-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond-Initials-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond-Initials-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond-InitialsF1-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond-InitialsF1-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "EB Garamond";
+	src: ;
+	src: url('./eb-garamond/EBGaramond-InitialsF2-webfont.ttf') format('truetype'),
+		url('./eb-garamond/EBGaramond-InitialsF2-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Liberation Serif";
+	src: ;
+	src: url('./liberation-serif/LiberationSerif-Regular-webfont.ttf') format('truetype'),
+		url('./liberation-serif/LiberationSerif-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Liberation Serif";
+	src: ;
+	src: url('./liberation-serif/LiberationSerif-Italic-webfont.ttf') format('truetype'),
+		url('./liberation-serif/LiberationSerif-Italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Liberation Serif";
+	src: ;
+	src: url('./liberation-serif/LiberationSerif-Bold-webfont.ttf') format('truetype'),
+		url('./liberation-serif/LiberationSerif-Bold-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Liberation Serif";
+	src: ;
+	src: url('./liberation-serif/LiberationSerif-BoldItalic-webfont.ttf') format('truetype'),
+		url('./liberation-serif/LiberationSerif-BoldItalic-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Nimbus Roman No9 L";
+	src: ;
+	src: url('./nimbus-roman-no9-l/NimbusRomNo9L-Reg-webfont.ttf') format('truetype'),
+		url('./nimbus-roman-no9-l/NimbusRomNo9L-Reg-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Nimbus Roman No9 L";
+	src: ;
+	src: url('./nimbus-roman-no9-l/NimbusRomNo9L-RegIta-webfont.ttf') format('truetype'),
+		url('./nimbus-roman-no9-l/NimbusRomNo9L-RegIta-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Nimbus Roman No9 L";
+	src: ;
+	src: url('./nimbus-roman-no9-l/NimbusRomNo9L-Med-webfont.ttf') format('truetype'),
+		url('./nimbus-roman-no9-l/NimbusRomNo9L-Med-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Nimbus Roman No9 L";
+	src: ;
+	src: url('./nimbus-roman-no9-l/NimbusRomNo9L-MedIta-webfont.ttf') format('truetype'),
+		url('./nimbus-roman-no9-l/NimbusRomNo9L-MedIta-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-Light-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-Light-webfont.woff') format('woff');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-LightItalic-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-LightItalic-webfont.woff') format('woff');
+	font-weight: 200;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-Regular-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-Italic-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-Italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-Bold-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-Bold-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-BoldItalic-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-BoldItalic-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-Black-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-Black-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Merriweather";
+	src: ;
+	src: url('./merriweather/Merriweather-BlackItalic-webfont.ttf') format('truetype'),
+		url('./merriweather/Merriweather-BlackItalic-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Heuristica";
+	src: ;
+	src: url('./euristic/Heuristica-Regular-webfont.ttf') format('truetype'),
+		url('./euristic/Heuristica-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Heuristica";
+	src: ;
+	src: url('./euristic/Heuristica-Italic-webfont.ttf') format('truetype'),
+		url('./euristic/Heuristica-Italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "Heuristica";
+	src: ;
+	src: url('./euristic/Heuristica-Bold-webfont.ttf') format('truetype'),
+		url('./euristic/Heuristica-Bold-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Heuristica";
+	src: ;
+	src: url('./euristic/Heuristica-BoldItalic-webfont.ttf') format('truetype'),
+		url('./euristic/Heuristica-BoldItalic-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+}
