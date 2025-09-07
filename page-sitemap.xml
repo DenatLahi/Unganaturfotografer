@@ -2499,28 +2499,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./fotoartiklar/ny-fototavling-den-storre-bilden/index.html</loc>
-		<lastmod>2025-09-07T20:34:38+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/Skogsmard1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_2982-Alexander-Ahl-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./kontakt/index.html</loc>
 		<lastmod>2025-09-07T20:37:29+00:00</lastmod>
 		<image:image>
@@ -2950,6 +2928,49 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./fotoartiklar/ny-fototavling-den-storre-bilden/index.html</loc>
+		<lastmod>2025-09-07T21:07:37+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/Skogsmard1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2982-Alexander-Ahl-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/Skogsmard1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2982-Alexander-Ahl-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
