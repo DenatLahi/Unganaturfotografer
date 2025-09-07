@@ -2,9 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2025-08-30T21:17:26+00:00</lastmod>
+		<lastmod>2025-09-07T20:37:05+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
@@ -13,10 +16,10 @@
 			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
@@ -85,9 +88,6 @@
 			<image:loc>./wp-content/uploads/2025/08/RJF04780-1-Ludvig-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -110,6 +110,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/8FCE4041-1E7E-4B7F-AF4D-B7E409AFEE48-Alfons-Fahlgren-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG-20250816-WA0028-Oliver-Tamames-Astrom_processed_by_imagy-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
@@ -572,73 +575,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG_0125-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./medlemmar/buster-wesslander/index.html</loc>
-		<lastmod>2025-08-22T21:11:44+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_5046-Enhanced-NR-Buster-Wesslander-1024x512.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A0239-Enhanced-NR-Buster-Wesslander-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A0803-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_8246-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A0559-Buster-Wesslander-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A5279-Buster-Wesslander-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A9834-Buster-Wesslander-1024x512.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A9848-Pano-Buster-Wesslander-1024x614.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_8147-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_5046-Enhanced-NR-Buster-Wesslander-1024x512.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_8246-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A0239-Enhanced-NR-Buster-Wesslander-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A0559-Buster-Wesslander-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A0803-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A5279-Buster-Wesslander-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A9834-Buster-Wesslander-1024x512.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A9848-Pano-Buster-Wesslander-1024x614.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_8147-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2013,73 +1949,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./medlemmar/tim-taslimi/index.html</loc>
-		<lastmod>2025-08-22T21:14:40+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_5495-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4178-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4436-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_7963-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_2885-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_0031-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1633-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9450-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/ACB12668-F549-4EF0-8F0A-92598219AA04-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_5495-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4178-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4436-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_0031-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/ACB12668-F549-4EF0-8F0A-92598219AA04-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_2885-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_7963-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9450-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1633-Zero-Us-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./medlemmar/sigge-alfredsson/index.html</loc>
 		<lastmod>2025-08-22T21:14:47+00:00</lastmod>
 		<image:image>
@@ -2148,336 +2017,6 @@
 		<lastmod>2025-08-22T21:26:30+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./medlemmar/matilda-fagerskoljd/index.html</loc>
-		<lastmod>2025-08-30T20:33:03+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A0522-Matilda-Fagerskjold-1024x819.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A2873-Matilda-Fagerskjold-683x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A9734-Matilda-Fagerskjold-1024x819.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A1723-Matilda-Fagerskjold-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A4295-Matilda-Fagerskjold-731x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A8022-Matilda-Fagerskjold-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A8308-Matilda-Fagerskjold-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A0923-Matilda-Fagerskjold-1024x819.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A4544-Matilda-Fagerskjold-683x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A0522-Matilda-Fagerskjold-1024x819.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A2873-Matilda-Fagerskjold-683x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A9734-Matilda-Fagerskjold-1024x819.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A8308-Matilda-Fagerskjold-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A0923-Matilda-Fagerskjold-1024x819.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A1723-Matilda-Fagerskjold-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A4295-Matilda-Fagerskjold-731x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A4544-Matilda-Fagerskjold-683x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A8022-Matilda-Fagerskjold-819x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./medlemmar/denat-lahi/index.html</loc>
-		<lastmod>2025-08-30T20:39:50+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-scaled-1-1024x764.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./medlemmar/index.html</loc>
-		<lastmod>2025-08-30T20:58:47+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Pressbild2-Gustav-Parenmark-696x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/19-natur-foto-1024x693.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Snapchat-964328664-Nikolai-Linander-1024x819.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/20250527-IMG_0123-Enhanced-NR-Alexander-Ahl-e1755884272965-1024x935.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Withalenius-01030-Emil-Alenius-683x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/8FCE4041-1E7E-4B7F-AF4D-B7E409AFEE48-Alfons-Fahlgren-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_20250828_230107_0352-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_6829-1-Frans-Laurin-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/RJF04780-1-Ludvig-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2618,8 +2157,496 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./fotoartiklar/17-arig-naturfotograf-pa-tv4-nyhetsmorgon/index.html</loc>
+		<lastmod>2025-08-30T21:18:15+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n-1024x768.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n-1024x768.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/matilda-fagerskjold/index.html</loc>
+		<lastmod>2025-09-07T18:18:51+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A0522-Matilda-Fagerskjold-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A2873-Matilda-Fagerskjold-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A9734-Matilda-Fagerskjold-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A1723-Matilda-Fagerskjold-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A4295-Matilda-Fagerskjold-731x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A8022-Matilda-Fagerskjold-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A8308-Matilda-Fagerskjold-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A0923-Matilda-Fagerskjold-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A4544-Matilda-Fagerskjold-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A0522-Matilda-Fagerskjold-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A2873-Matilda-Fagerskjold-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A9734-Matilda-Fagerskjold-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A8308-Matilda-Fagerskjold-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A0923-Matilda-Fagerskjold-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A1723-Matilda-Fagerskjold-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A4295-Matilda-Fagerskjold-731x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A4544-Matilda-Fagerskjold-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A8022-Matilda-Fagerskjold-819x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/buster-wesslander/index.html</loc>
+		<lastmod>2025-09-07T18:22:04+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_5046-Enhanced-NR-Buster-Wesslander-1024x512.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A0239-Enhanced-NR-Buster-Wesslander-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A0803-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_8246-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A0559-Buster-Wesslander-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A5279-Buster-Wesslander-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A9834-Buster-Wesslander-1024x512.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A9848-Pano-Buster-Wesslander-1024x614.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_8147-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_5046-Enhanced-NR-Buster-Wesslander-1024x512.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_8246-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A0239-Enhanced-NR-Buster-Wesslander-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A0559-Buster-Wesslander-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A0803-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A5279-Buster-Wesslander-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A9834-Buster-Wesslander-1024x512.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A9848-Pano-Buster-Wesslander-1024x614.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_8147-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/denat-lahi/index.html</loc>
+		<lastmod>2025-09-07T20:09:06+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-scaled-1-1024x764.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/oliver-tamames-astrom/index.html</loc>
+		<lastmod>2025-09-07T20:28:19+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG-20250816-WA0028-Oliver-Tamames-Astrom_processed_by_imagy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG-20250816-WA0028-Oliver-Tamames-Astrom_processed_by_imagy-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.trepadorAzul.009.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.garzaReal.001.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.collalbaGris.001.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.grajillaOccidental.001.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.trepadorAzul.005.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.trepadorAzul.006.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG-20250816-WA0028-Oliver-Tamames-Astrom_processed_by_imagy-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.trepadorAzul.009.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.garzaReal.001.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.collalbaGris.001.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.grajillaOccidental.001.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.trepadorAzul.005.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/2025.trepadorAzul.006.r-Oliver-Tamames-Astrom_processed_by_imagy-1024x684.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./fotoartiklar/index.html</loc>
+		<lastmod>2025-09-07T20:32:21+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-3-1024x814.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./fotoartiklar/ny-fototavling-den-storre-bilden/index.html</loc>
+		<lastmod>2025-09-07T20:34:38+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gravling-spoke-21.0-fliluren-1024x686.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/Skogsmard1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2982-Alexander-Ahl-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/tornfalk-5.0-fliluren-1024x675.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kontakt/index.html</loc>
+		<lastmod>2025-09-07T20:37:29+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Pressbild2-Gustav-Parenmark-696x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/19-natur-foto-1024x693.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/20250527-IMG_0123-Enhanced-NR-Alexander-Ahl-e1755884272965-1024x935.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Snapchat-964328664-Nikolai-Linander-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_6829-1-Frans-Laurin-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/RJF04780-1-Ludvig-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_20250828_230107_0352-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Withalenius-01030-Emil-Alenius-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/8FCE4041-1E7E-4B7F-AF4D-B7E409AFEE48-Alfons-Fahlgren-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG-20250816-WA0028-Oliver-Tamames-Astrom_processed_by_imagy-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy-1024x656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./om-oss/index.html</loc>
-		<lastmod>2025-08-30T21:01:52+00:00</lastmod>
+		<lastmod>2025-09-07T20:37:32+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON.png</image:loc>
 		</image:image>
@@ -2702,9 +2729,6 @@
 			<image:loc>./wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -2732,23 +2756,38 @@
 			<image:loc>./wp-content/uploads/2025/08/8FCE4041-1E7E-4B7F-AF4D-B7E409AFEE48-Alfons-Fahlgren-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG-20250816-WA0028-Oliver-Tamames-Astrom_processed_by_imagy-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>./kontakt/index.html</loc>
-		<lastmod>2025-08-30T21:02:23+00:00</lastmod>
+		<loc>./medlemmar/index.html</loc>
+		<lastmod>2025-09-07T20:37:52+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Pressbild2-Gustav-Parenmark-696x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/19-natur-foto-1024x693.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Snapchat-964328664-Nikolai-Linander-1024x819.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
@@ -2763,82 +2802,67 @@
 			<image:loc>./wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/19-natur-foto-1024x693.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/20250527-IMG_0123-Enhanced-NR-Alexander-Ahl-e1755884272965-1024x935.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Snapchat-964328664-Nikolai-Linander-1024x819.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/20250527-IMG_0123-Enhanced-NR-Alexander-Ahl-e1755884272965-1024x935.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_6829-1-Frans-Laurin-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/EA0119E3-62E8-4A43-87DA-22807585D90F-Zero-Us-576x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/RJF04780-1-Ludvig-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_20250828_230107_0352-1024x1024.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_5279-Hugo-Isaksson-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Withalenius-01030-Emil-Alenius-683x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy-1024x656.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/8FCE4041-1E7E-4B7F-AF4D-B7E409AFEE48-Alfons-Fahlgren-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_20250828_230107_0352-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_6829-1-Frans-Laurin-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG-20250816-WA0028-Oliver-Tamames-Astrom_processed_by_imagy-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/RJF04780-1-Ludvig-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/072034A1-A28C-44B4-931D-0D1E35B014D3-x-gelexy-700x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
@@ -2847,75 +2871,40 @@
 			<image:loc>./wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>./fotoartiklar/17-arig-naturfotograf-pa-tv4-nyhetsmorgon/index.html</loc>
-		<lastmod>2025-08-30T21:18:15+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n-1024x768.webp</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n-1024x768.webp</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./fotoartiklar/index.html</loc>
-		<lastmod>2025-08-30T21:20:14+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
@@ -2927,16 +2916,40 @@
 			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/20250724_120125-Albin-Nordlund-scaled-e1755213279448-1024x810.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/A2A3066-Enhanced-NR-Buster-Wesslander-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8966-Emil-Gustavsson-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-3-1024x814.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1615-Hampus-Lundqvist-von-Post-758x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000012274-Gordon-Lundvall-743x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/A092C889-3BCA-4A5D-B09C-1D0BEB1B9BC8-Johan-Thelander-820x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/insta-profil-bild-fliluren.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3545-Sigge-Alfredsson-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
