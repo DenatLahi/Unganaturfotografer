@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./</loc>
-		<lastmod>2025-11-27T21:15:45+00:00</lastmod>
+		<lastmod>2026-01-08T19:38:58+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/IMG_5036.jpg</image:loc>
 		</image:image>
@@ -160,6 +160,18 @@
 			<image:loc>./wp-content/uploads/2025/11/IMG_2700-Angelina-Reynold-683x1024.jpeg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2001-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSCF7316-Michel-Fonvad-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_20251228_214223-Liam-Gustafsson-1024x1016.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2314-Dan-Eliasson-1012x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -175,7 +187,7 @@
 			<image:loc>./wp-content/uploads/2025/09/IMG_7450-Brian-Lofkvist-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2026/01/DSC02024-Matilda-Modig-1024x789.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Snapchat-964328664-Nikolai-Linander-1024x819.jpg</image:loc>
@@ -441,76 +453,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./medlemmar/emma-sandstedt/</loc>
-		<lastmod>2025-08-22T21:12:02+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_0849-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1082-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1306-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1554-emma-sandstedt-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_7936-emma-sandstedt-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8171-emma-sandstedt-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8986-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9899-emma-sandstedt-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9956-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9211-Emil-Gustavsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_0849-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1082-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1306-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1554-emma-sandstedt-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_7936-emma-sandstedt-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8171-emma-sandstedt-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8986-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9899-emma-sandstedt-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9956-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./medlemmar/frans-laurin/</loc>
 		<lastmod>2025-08-22T21:12:08+00:00</lastmod>
 		<image:image>
@@ -712,73 +654,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./medlemmar/gustav-gotthardsson/</loc>
-		<lastmod>2025-08-22T21:12:37+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_8284-Gustav-SA7GGO-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/img018-Gustav-SA7GGO-1024x625.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_9178-Gustav-SA7GGO-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_0357-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/R6__7581-Gustav-SA7GGO-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_3860-Gustav-SA7GGO-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/img006beskuren-Gustav-SA7GGO-1024x763.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/img012-Gustav-SA7GGO-1024x622.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/R6__7230-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_8284-Gustav-SA7GGO-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_0357-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_3860-Gustav-SA7GGO-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/5D_9178-Gustav-SA7GGO-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/img006beskuren-Gustav-SA7GGO-1024x763.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/img012-Gustav-SA7GGO-1024x622.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/img018-Gustav-SA7GGO-1024x625.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/R6__7230-Gustav-SA7GGO-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/R6__7581-Gustav-SA7GGO-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./medlemmar/hampus-lundqvist-von-post/</loc>
 		<lastmod>2025-08-22T21:12:49+00:00</lastmod>
 		<image:image>
@@ -843,73 +718,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/30D2663-Hampus-Lundqvist-von-Post-819x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./medlemmar/love-hagstrom/</loc>
-		<lastmod>2025-08-22T21:13:36+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav-Love-Hagstrom-1024x691.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Kronhjort-Love-Hagstrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/hornuggla-Love-Hagstrom-1024x680.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/gluttsnappa-Love-Hagstrom-945x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Kronhjort-2-Love-Hagstrom-1024x747.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mink-Love-Hagstrom-1024x700.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Tranan-landar-bland-flocken-Love-Hagstrom-1024x656.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/vessla-Love-Hagstrom-1024x771.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav-Love-Hagstrom-1024x691.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/gluttsnappa-Love-Hagstrom-945x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/hornuggla-Love-Hagstrom-1024x680.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Kronhjort-Love-Hagstrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Kronhjort-2-Love-Hagstrom-1024x747.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mink-Love-Hagstrom-1024x700.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Tranan-landar-bland-flocken-Love-Hagstrom-1024x656.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/vessla-Love-Hagstrom-1024x771.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1796,73 +1604,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/85573B07-C50C-4367-8CC7-69A78C7714F9-1-Sebastian-SF-1024x731.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./medlemmar/valdemar-sjostrom/</loc>
-		<lastmod>2025-09-22T17:52:13+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_6191-Valdemar-Sjostrom.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_6191-Valdemar-Sjostrom-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_0501-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_8978-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_9942-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_8358-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_1126-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_9581-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_0051-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_0919-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_1463-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_6191-Valdemar-Sjostrom-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_8358-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_8978-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_9581-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_9942-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_0051-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_0501-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_0919-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_1126-Valdemar-Sjostrom-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_1463-Valdemar-Sjostrom-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3311,73 +3052,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./medlemmar/gustav-franklin/</loc>
-		<lastmod>2025-11-10T14:36:54+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/IMG_2535-Gustav-Franklin.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/IMG_2535-Gustav-Franklin-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_1953-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_1286-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_0194-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_9563-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_9478-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_7695-2-Gustav-Franklin-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_6865-Gustav-Franklin-683x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_6505-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_3572-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/IMG_2535-Gustav-Franklin-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_1286-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_0194-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_9563-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_9478-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_7695-2-Gustav-Franklin-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_6865-Gustav-Franklin-683x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_6505-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_3572-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC_1953-Gustav-Franklin-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./medlemmar/albin-eurenius/</loc>
 		<lastmod>2025-11-10T14:37:15+00:00</lastmod>
 		<image:image>
@@ -3616,91 +3290,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./medlemmar/denat-lahi/</loc>
-		<lastmod>2025-11-15T18:01:31+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-scaled-1-1024x764.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3493-v10WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/0010NR5-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./fotoartiklar/vinnarna-av-fototavlingen-den-storre-bilden/</loc>
 		<lastmod>2025-11-15T18:06:50+00:00</lastmod>
 		<image:image>
@@ -3911,76 +3500,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./medlemmar/matilda-modig/</loc>
-		<lastmod>2025-11-27T20:59:33+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4877-Matilda-Modig-1024x839.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MatildaModigNy2-1024x788.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC08141-Matilda-Modig-1024x615.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC09649-Matilda-Modig-1024x711.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MatildaModigNYC04554-1024x757.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/DSC09393-Matilda-Modig-1024x795.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1444-Matilda-Modig-1024x857.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9100-Matilda-Modig-1024x715.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4877-Matilda-Modig-1024x839.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MatildaModigNy2-1024x788.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC08141-Matilda-Modig-1024x615.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC09649-Matilda-Modig-1024x711.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MatildaModigNYC04554-1024x757.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/DSC09393-Matilda-Modig-1024x795.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_1444-Matilda-Modig-1024x857.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9100-Matilda-Modig-1024x715.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./medlemmar/angelina-reynold/</loc>
 		<lastmod>2025-11-27T21:16:26+00:00</lastmod>
 		<image:image>
@@ -4048,8 +3567,323 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./fotoartiklar/</loc>
+		<lastmod>2025-11-27T21:48:41+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/9K0A4886-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/542331744_18400578073189465_728992517368948437_n-1024x666.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-3-1024x814.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./fotoartiklar/minimalism-i-naturfoto-18-aring-visar-kreativa-bilder/</loc>
+		<lastmod>2025-11-27T22:31:48+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-4-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-6-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-7-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/483431067_915371287190669_6329563871135457048_n-1024x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./fotoartiklar/framtidens-naturfotografer-tjejerna-i-fokus/</loc>
+		<lastmod>2025-11-28T14:46:12+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/7-natur-foto-1024x693.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/DSC_0242-Enhanced-NR-INKA-1024x740.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC5182-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/889A8308-Matilda-Fagerskjold-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9956-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/P1070876-1024x685.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/IMG_2700-Angelina-Reynold-683x1024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_20250828_230107_0352-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/19-natur-foto-1024x693.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/7-natur-foto-1024x693.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/daniela-wetter-hagstrom/</loc>
+		<lastmod>2026-01-08T18:45:15+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2001-Daniela-Wetter-Hagstrom-Danni.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2001-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMGL7233-Daniela-Wetter-Hagstrom-Danni-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMGL3834-Daniela-Wetter-Hagstrom-Danni-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMGL3758-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMGL3349-Daniela-Wetter-Hagstrom-Danni-576x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2683-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2679-Daniela-Wetter-Hagstrom-Danni-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2001-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMGL3834-Daniela-Wetter-Hagstrom-Danni-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMGL3758-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMGL3349-Daniela-Wetter-Hagstrom-Danni-576x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2683-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2679-Daniela-Wetter-Hagstrom-Danni-819x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/michel-fonvad/</loc>
+		<lastmod>2026-01-08T18:52:49+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSCF7316-Michel-Fonvad.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSCF7316-Michel-Fonvad-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0023-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0636-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0584-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0369-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0083-2-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0081-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSCF7316-Michel-Fonvad-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0636-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0584-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0369-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0083-2-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0081-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC_0023-Michel-Fonvad-1024x681.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/liam-gustafsson/</loc>
+		<lastmod>2026-01-08T18:57:55+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_20251228_214223-Liam-Gustafsson.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_20251228_214223-Liam-Gustafsson-1024x1016.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/048A4429-6-Liam-Gustafsson-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/048A4376-5-Liam-Gustafsson-1024x657.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/048A1890-3-Liam-Gustafsson-1024x772.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A7651-3-Liam-Gustafsson-1024x644.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A7491-4-Liam-Gustafsson-1024x732.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A6184-6-Liam-Gustafsson-1024x643.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A6146-1-2-Liam-Gustafsson-1024x717.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A1812-3-Liam-Gustafsson-690x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/048A4617-Liam-Gustafsson-1024x757.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_20251228_214223-Liam-Gustafsson-1024x1016.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/048A4429-6-Liam-Gustafsson-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/048A4376-5-Liam-Gustafsson-1024x657.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/048A1890-3-Liam-Gustafsson-1024x772.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A7651-3-Liam-Gustafsson-1024x644.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A7491-4-Liam-Gustafsson-1024x732.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A6184-6-Liam-Gustafsson-1024x643.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A6146-1-2-Liam-Gustafsson-1024x717.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/48A1812-3-Liam-Gustafsson-690x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./om-oss/</loc>
-		<lastmod>2025-11-27T21:20:35+00:00</lastmod>
+		<lastmod>2026-01-08T19:01:33+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON.png</image:loc>
 		</image:image>
@@ -4222,12 +4056,24 @@
 			<image:loc>./wp-content/uploads/2025/11/IMG_2700-Angelina-Reynold-683x1024.jpeg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_20251228_214223-Liam-Gustafsson-1024x1016.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSCF7316-Michel-Fonvad-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2001-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2314-Dan-Eliasson-1012x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./kontakt/</loc>
-		<lastmod>2025-11-27T21:20:51+00:00</lastmod>
+		<lastmod>2026-01-08T19:02:11+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy.jpg</image:loc>
 		</image:image>
@@ -4385,6 +4231,18 @@
 			<image:loc>./wp-content/uploads/2025/11/IMG_2700-Angelina-Reynold-683x1024.jpeg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_20251228_214223-Liam-Gustafsson-1024x1016.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2001-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSCF7316-Michel-Fonvad-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2314-Dan-Eliasson-1012x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy-1024x656.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -4410,75 +4268,571 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./fotoartiklar/</loc>
-		<lastmod>2025-11-27T21:48:41+00:00</lastmod>
+		<loc>./medlemmar/denat-lahi/</loc>
+		<lastmod>2026-01-08T19:09:42+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus-1024x576.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-scaled-1-1024x764.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/11/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/9K0A4886-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/11/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/542331744_18400578073189465_728992517368948437_n-1024x666.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Fotoartikel-sveriges-unga-naturfotografer-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/17-arig-Denat-fotar-unika-bilder-pa-skogsmardar-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/474949901_565929249932155_710783476983748782_n-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Mard4-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_2253-1024x683.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-3-1024x814.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3493-v10WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/0010NR5-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/WEBUSETHISMETADATA_MG_5822-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_1024FINAL-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Bright-sRGBWEB-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NRWEB-1024x671.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3114-v2WEB-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_2659-fake-adobergbWEB-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/dan-eliasson/</loc>
+		<lastmod>2026-01-08T19:20:42+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2314-Dan-Eliasson.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2314-Dan-Eliasson-1012x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/555633485_17844503829580383_8939649291591440063_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/570893787_17849969328580383_3768186921484357964_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/587332112_17853106203580383_8311615336920401191_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/587784583_17856798516580383_5204544324880969084_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/589152215_17854668816580383_5641026601973501265_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/605427218_17857747629580383_864801835764152937_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/606993609_17857612608580383_8861423394507121677_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/608416924_17858685594580383_64637586636086814_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/610714130_17859335871580383_1269237741467820557_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2314-Dan-Eliasson-1012x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/610714130_17859335871580383_1269237741467820557_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/608416924_17858685594580383_64637586636086814_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/606993609_17857612608580383_8861423394507121677_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/605427218_17857747629580383_864801835764152937_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/589152215_17854668816580383_5641026601973501265_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/587784583_17856798516580383_5204544324880969084_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/587332112_17853106203580383_8311615336920401191_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/570893787_17849969328580383_3768186921484357964_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/555633485_17844503829580383_8939649291591440063_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/love-hagstrom/</loc>
+		<lastmod>2026-01-08T19:27:12+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav-Love-Hagstrom-1024x691.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Kronhjort-Love-Hagstrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/hornuggla-Love-Hagstrom-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gluttsnappa-Love-Hagstrom-945x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Kronhjort-2-Love-Hagstrom-1024x747.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mink-Love-Hagstrom-1024x700.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Tranan-landar-bland-flocken-Love-Hagstrom-1024x656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/vessla-Love-Hagstrom-1024x771.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/bild-Love-Hagstrom-813x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav-Love-Hagstrom-1024x691.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gluttsnappa-Love-Hagstrom-945x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/gok-och-angspiplarka-Love-Hagstrom-1024x678.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/hornuggla-Love-Hagstrom-1024x680.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Kronhjort-Love-Hagstrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Kronhjort-2-Love-Hagstrom-1024x747.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mink-Love-Hagstrom-1024x700.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Tranan-landar-bland-flocken-Love-Hagstrom-1024x656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/vessla-Love-Hagstrom-1024x771.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/gustav-gotthardsson/</loc>
+		<lastmod>2026-01-08T19:28:59+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_8284-Gustav-SA7GGO-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/img018-Gustav-SA7GGO-1024x625.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_9178-Gustav-SA7GGO-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_0357-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/R6__7581-Gustav-SA7GGO-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_3860-Gustav-SA7GGO-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/img006beskuren-Gustav-SA7GGO-1024x763.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/img012-Gustav-SA7GGO-1024x622.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/R6__7230-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3061-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_8284-Gustav-SA7GGO-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_0357-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_3860-Gustav-SA7GGO-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/5D_9178-Gustav-SA7GGO-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/img006beskuren-Gustav-SA7GGO-1024x763.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/img012-Gustav-SA7GGO-1024x622.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/img018-Gustav-SA7GGO-1024x625.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/R6__7230-Gustav-SA7GGO-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/R6__7581-Gustav-SA7GGO-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/emma-sandstedt/</loc>
+		<lastmod>2026-01-08T19:29:38+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_0849-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1082-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1306-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1554-emma-sandstedt-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_7936-emma-sandstedt-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8171-emma-sandstedt-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8986-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9899-emma-sandstedt-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9956-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MG_9211-Emil-Gustavsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_0849-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1082-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1306-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1554-emma-sandstedt-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_7936-emma-sandstedt-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8171-emma-sandstedt-1024x810.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8986-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9899-emma-sandstedt-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9956-emma-sandstedt-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/gustav-franklin/</loc>
+		<lastmod>2026-01-08T19:30:15+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/IMG_2535-Gustav-Franklin.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/IMG_2535-Gustav-Franklin-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_1953-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_1286-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_0194-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_9563-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_9478-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_7695-2-Gustav-Franklin-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_6865-Gustav-Franklin-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_6505-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_3572-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/IMG_2535-Gustav-Franklin-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_1286-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_0194-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_9563-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_9478-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_7695-2-Gustav-Franklin-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_6865-Gustav-Franklin-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_6505-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_3572-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC_1953-Gustav-Franklin-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/valdemar-sjostrom/</loc>
+		<lastmod>2026-01-08T19:33:53+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_6191-Valdemar-Sjostrom.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2599-Valdemar-Sjostrom-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_0501-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_8978-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_9942-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_8358-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_1126-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_9581-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_0051-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_0919-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_1463-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_6191-Valdemar-Sjostrom-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_8358-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_8978-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_9581-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_9942-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_0051-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_0501-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_0919-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_1126-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/IMG_1463-Valdemar-Sjostrom-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./medlemmar/matilda-modig/</loc>
+		<lastmod>2026-01-08T19:35:22+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSC02024-Matilda-Modig-1024x789.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_4877-Matilda-Modig-1024x839.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MatildaModigNy2-1024x788.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC08141-Matilda-Modig-1024x615.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC09649-Matilda-Modig-1024x711.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MatildaModigNYC04554-1024x757.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/DSC09393-Matilda-Modig-1024x795.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1444-Matilda-Modig-1024x857.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9100-Matilda-Modig-1024x715.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_4877-Matilda-Modig-1024x839.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MatildaModigNy2-1024x788.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC08141-Matilda-Modig-1024x615.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/11/DSC09649-Matilda-Modig-1024x711.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/MatildaModigNYC04554-1024x757.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/DSC09393-Matilda-Modig-1024x795.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1444-Matilda-Modig-1024x857.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_9100-Matilda-Modig-1024x715.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./medlemmar/</loc>
-		<lastmod>2025-11-27T22:31:00+00:00</lastmod>
+		<lastmod>2026-01-08T19:38:12+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
 		</image:image>
@@ -4498,7 +4852,7 @@
 			<image:loc>./wp-content/uploads/2025/09/IMG_7450-Brian-Lofkvist-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2026/01/DSC02024-Matilda-Modig-1024x789.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Snapchat-964328664-Nikolai-Linander-1024x819.jpg</image:loc>
@@ -4543,7 +4897,7 @@
 			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/IMG_6191-Valdemar-Sjostrom-768x1024.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2599-Valdemar-Sjostrom-683x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/20250520_205053-2-Sebastian-SF-1024x768.jpg</image:loc>
@@ -4582,7 +4936,16 @@
 			<image:loc>./wp-content/uploads/2025/10/IMG_5939.webp</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2314-Dan-Eliasson-1012x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>./wp-content/uploads/2025/11/IMG_2700-Angelina-Reynold-683x1024.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/DSCF7316-Michel-Fonvad-683x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_20251228_214223-Liam-Gustafsson-1024x1016.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/10/DSC08949-Albert-Jerntorp-1024x683.jpg</image:loc>
@@ -4598,6 +4961,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG_20250828_230107_0352-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/01/IMG_2001-Daniela-Wetter-Hagstrom-Danni-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/11/IMG_2535-Gustav-Franklin-1024x768.jpg</image:loc>
@@ -4724,95 +5090,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./fotoartiklar/minimalism-i-naturfoto-18-aring-visar-kreativa-bilder/</loc>
-		<lastmod>2025-11-27T22:31:48+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-3-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-4-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-6-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-7-1024x682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/483431067_915371287190669_6329563871135457048_n-1024x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./fotoartiklar/framtidens-naturfotografer-tjejerna-i-fokus/</loc>
-		<lastmod>2025-11-28T14:46:12+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/7-natur-foto-1024x693.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/DSC_0242-Enhanced-NR-INKA-1024x740.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC5182-1024x681.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/889A8308-Matilda-Fagerskjold-1024x810.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_9956-emma-sandstedt-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/P1070876-1024x685.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/IMG_2700-Angelina-Reynold-683x1024.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_20250828_230107_0352-1024x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/19-natur-foto-1024x693.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_4620-INKA-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8344-Matilda-Fagerskjold-961x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/P1010703-Matilda-Modig-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/MG_9339-emma-sandstedt-769x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/Fotoartikel-Tjejerna-i-fokus-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/11/DSC09532-Matilda-Modig-1024x843.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/7-natur-foto-1024x693.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
