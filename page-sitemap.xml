@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://unganaturfotografer.se/</loc>
-		<lastmod>2026-03-13T21:56:19+00:00</lastmod>
+		<lastmod>2026-04-17T18:00:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772.jpg</image:loc>
 		</image:image>
@@ -10,7 +10,7 @@
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03705-1024x683.jpg</image:loc>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
@@ -2431,22 +2431,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/ansok/</loc>
-		<lastmod>2026-03-13T19:56:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://unganaturfotografer.se/vanliga-fragor/</loc>
 		<lastmod>2026-03-13T20:13:41+00:00</lastmod>
 		<image:image>
@@ -2457,65 +2441,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/DJI_0018-Gabriel-Emanuelsson-1024x576.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://unganaturfotografer.se/om-oss/</loc>
-		<lastmod>2026-03-13T20:28:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03728-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03728-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03728-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://unganaturfotografer.se/kontakt/</loc>
-		<lastmod>2026-03-13T20:29:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy-1024x656.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2726,6 +2651,115 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/IMG_4878-Rasmus-Rosengren.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/om-oss/</loc>
+		<lastmod>2026-04-17T17:38:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/kontakt/</loc>
+		<lastmod>2026-04-17T17:42:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Ravar-Rydeback-457-Johan-Thelander_processed_by_imagy-1024x656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG_9694-2-Elliot-Nilsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-1024x623.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000002487-Gabriel-Emanuelsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/IMG-20250809-WA0000-Rasmus-Olsson-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000001897-Gabriel-Emanuelsson-819x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/ansok/</loc>
+		<lastmod>2026-04-17T17:43:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03728-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03705-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Buster-Wesslander-Minimalism-2-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/utstallning-hos-mattssons-fotobutik-i-lund/</loc>
+		<lastmod>2026-04-17T18:01:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Ravar-Rydeback-666-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/11/Mattssons-foto-1024x591.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
