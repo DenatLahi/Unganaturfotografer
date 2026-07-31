@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://unganaturfotografer.se/</loc>
-		<lastmod>2026-06-25T14:21:25+00:00</lastmod>
+		<lastmod>2026-07-31T09:41:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772.jpg</image:loc>
 		</image:image>
@@ -1752,31 +1752,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/om-oss/</loc>
-		<lastmod>2026-06-13T14:01:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://unganaturfotografer.se/medlemmar/lili-chen/</loc>
 		<lastmod>2026-06-25T13:13:21+00:00</lastmod>
 		<image:image>
@@ -2740,8 +2715,64 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://unganaturfotografer.se/medlemmar/alma-vigerlof/</loc>
+		<lastmod>2026-07-31T09:40:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/IMG_7759-Alma-Vigerlof-Karlsson.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/IMG_7759-Alma-Vigerlof-Karlsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/DSC_1839-Alma-Vigerlof-Karlsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/DSC_1816-Alma-Vigerlof-Karlsson-1024x724.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/DSC_0640-Alma-Vigerlof-Karlsson-1024x730.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/IMG_7759-Alma-Vigerlof-Karlsson-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/DSC_1839-Alma-Vigerlof-Karlsson-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/DSC_1816-Alma-Vigerlof-Karlsson-1024x724.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/DSC_0640-Alma-Vigerlof-Karlsson-1024x730.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/om-oss/</loc>
+		<lastmod>2026-07-31T09:41:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/04/Sveriges-Unga-Naturfotografer-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2023/10/Sveriges-Unga-Naturfotografer-logga-icon-hemsida-GRON-1024x704.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://unganaturfotografer.se/medlemmar/</loc>
-		<lastmod>2026-06-25T14:48:49+00:00</lastmod>
+		<lastmod>2026-07-31T09:51:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-image.jpg</image:loc>
 		</image:image>
@@ -2924,6 +2955,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/1000006981-Oscar-Dahl-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/07/IMG_7759-Alma-Vigerlof-Karlsson-768x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/06/Screenshot_20250907-1004202-Benjamin-Ipsonius-698x1024.jpg</image:loc>
