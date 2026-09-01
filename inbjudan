@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omdirigerar till Discord...</title>
+    
+    <meta http-equiv="refresh" content="0; url=https://discord.gg/veyFQgUZyh">
+    
+    <script>
+        window.location.href = "https://discord.gg/veyFQgUZyh";
+    </script>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        a {
+            color: #5865F2; /* Discords lila färg */
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .secondary-link {
+            color: #666;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Skickar dig vidare...</h2>
+        <p>Du skickas nu vidare till vår Discord-server.</p>
+        
+        <p>Om du inte skickas vidare automatiskt, <a href="https://discord.gg/veyFQgUZyh">klicka här för att gå vidare till Discord</a>.</p>
+        
+        <br>
+        <p><a href="https://unganaturfotografer.se" class="secondary-link">← Återvänd till startsidan</a></p>
+    </div>
+
+</body>
+</html>
