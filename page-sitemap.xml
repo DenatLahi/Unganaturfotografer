@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://unganaturfotografer.se/</loc>
-		<lastmod>2026-08-27T13:04:22+00:00</lastmod>
+		<lastmod>2026-09-09T21:10:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/08/Sveriges_Unga_Naturfotografer_Planket_2026.jpg</image:loc>
 		</image:image>
@@ -1179,31 +1179,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03728-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://unganaturfotografer.se/fotoartiklar/17-arig-naturfotograf-pa-tv4-nyhetsmorgon/</loc>
-		<lastmod>2026-04-03T17:46:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/02/WEB_MG_0905-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2785,19 +2760,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://unganaturfotografer.se/vanliga-fragor/</loc>
-		<lastmod>2026-08-27T13:02:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/DJI_0018-Gabriel-Emanuelsson.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/08/Denat_Lahi_Portrait_Color_Best-1-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/DJI_0018-Gabriel-Emanuelsson-1024x576.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://unganaturfotografer.se/medlemmar/denat-lahi/</loc>
 		<lastmod>2026-08-27T13:04:12+00:00</lastmod>
 		<image:image>
@@ -3146,7 +3108,7 @@
 	</url>
 	<url>
 		<loc>https://unganaturfotografer.se/om-oss/</loc>
-		<lastmod>2026-08-27T13:06:06+00:00</lastmod>
+		<lastmod>2026-09-09T21:10:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/03/DSC03772.jpg</image:loc>
 		</image:image>
@@ -3195,7 +3157,7 @@
 	</url>
 	<url>
 		<loc>https://unganaturfotografer.se/fotoartiklar/resultat-av-fototavling-sommaren-2026/</loc>
-		<lastmod>2026-09-02T19:14:25+00:00</lastmod>
+		<lastmod>2026-09-09T21:13:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/09/1.jpg</image:loc>
 		</image:image>
@@ -3294,6 +3256,58 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/09/2-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/inbjudan/</loc>
+		<lastmod>2026-09-09T21:18:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/fotoartiklar/17-arig-naturfotograf-pa-tv4-nyhetsmorgon/</loc>
+		<lastmod>2026-09-09T21:18:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/02/WEB_MG_0905-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Rav1-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/bli-medlem/</loc>
+		<lastmod>2026-09-09T21:52:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/09/5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/09/5-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://unganaturfotografer.se/vanliga-fragor/</loc>
+		<lastmod>2026-09-09T21:54:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/DJI_0018-Gabriel-Emanuelsson.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2026/08/Denat_Lahi_Portrait_Color_Best-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://unganaturfotografer.se/wp-content/uploads/2025/08/DJI_0018-Gabriel-Emanuelsson-1024x576.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
